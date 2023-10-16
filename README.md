@@ -1,7 +1,7 @@
 # kmeans-CUDA
 # KMeans with CUDA & Thrust
 
-[![Build Status](https://travis-ci.com/your_username/kmeans-cuda-thrust.svg?branch=main)](https://travis-ci.com/your_username/kmeans-cuda-thrust)
+[![Build Status](https://travis-ci.com/htrinh43/kmeans-CUDA.svg?branch=main)](https://github.com/HTrinh43/kmeans-CUDA)
 
 This repository contains an efficient implementation of the KMeans clustering algorithm using NVIDIA CUDA and Thrust. The implementation aims to leverage the parallelism capabilities of GPUs to speed up the clustering process.
 
