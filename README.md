@@ -33,8 +33,8 @@ This repository contains an efficient implementation of the KMeans clustering al
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/kmeans-cuda-thrust.git
-cd kmeans-cuda-thrust
+git clone https://github.com/HTrinh43/kmeans-CUDA.git
+cd kmeans-CUDA
 ```
 Create a build directory and compile:
 ```bash
